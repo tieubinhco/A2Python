@@ -1,0 +1,1 @@
+print("Pi thon đíp lơn ninh \n"*10)
