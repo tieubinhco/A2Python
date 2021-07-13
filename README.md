@@ -1,3 +1,2 @@
 # A2Python
-This repository contains python codes and some small projects in python.
-
+This repository contains python sample codes and some small projects in python.
